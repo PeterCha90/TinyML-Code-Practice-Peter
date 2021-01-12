@@ -12,8 +12,8 @@
 * Arduino [NANO 33 Sense Board BLE](https://store.arduino.cc/usa/nano-33-ble-sense)
 
 #### :clipboard: Contents
-* Ch5, 6. **[Hello World](https://github.com/TinyML-Study/TinyML-Code-Practice-Peter/tree/master/Ch5_6_Hello_World)**
+* Ch5, 6. **Hello World**
 
-* Ch7, 8. **[Wake-Word Detection](https://github.com/TinyML-Study/TinyML-Code-Practice-Peter/tree/master/Ch7_8_Wake_Word_Detection)**
+* Ch7, 8. **Wake-Word Detection**
 
 * Ch9, 10. **[Person Detection](https://github.com/TinyML-Study/TinyML-Code-Practice-Peter/tree/master/Ch9_10_Person_Detection)**
